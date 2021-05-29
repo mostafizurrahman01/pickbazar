@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Fakedata from '../../Fakedata/Fakedata';
+import Fakedata from '../../../Fakedata/Fakedata';
 import Item from './Item';
 
 const Shop = () => {
