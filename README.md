@@ -1,71 +1,31 @@
-# Getting Started with Create React App
+# Pick Bazar - A [type] website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Codes for the Pick Bazar Website
+This is a website for [purpose]
 
-## Available Scripts
+## Important Links
+**Livesite** -- Livesite deploied with _Firebase_, Visit these link:-- https:// [firebase link]
 
-In the project directory, you can run:
+**Github** --  Visit these link:-- https://github.com/imsamrat/pickbazar 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Resources
+<p align="center">
+<img src="https://i.ibb.co/Tv6YMjC/iconfinder-badge-html-5-317755.png" alt="iconfinder-badge-html-5-317755" border="0" height="40">
+<img src="https://i.ibb.co/tMT3BjS/iconfinder-121-css3-4202020.png" alt="iconfinder-121-css3-4202020" border="0" height="40">
+<img src="https://i.ibb.co/tXK4sLS/bootstrap-plain-logo-icon-146619.png" alt="bootstrap-plain-logo-icon-146619" border="0" height="40">
+<img src="https://i.ibb.co/WnmmtPD/iconfinder-code-programming-javascript-software-develop-command-language-652581.png" alt="iconfinder-code-programming-javascript-software-develop-command-language-652581" border="0" height="40">
+<img src="https://i.ibb.co/wMmkCgT/iconfinder-React-js-logo-1174949.png" alt="iconfinder-React-js-logo-1174949" border="0" height="40">
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Project Of Team 109
+Created with Team 109. Their first ever project is here.
 
-### `npm test`
+S.m. Samrat - s.m.samrat@outlook.com
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+MD. Mostafizur Rahman - abirmostafizurrahman@gmail.com
 
-### `npm run build`
+Faiyad Ahmed Sudipto - faiyadahmedsudipto@gmail.com
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# amazon-clone
