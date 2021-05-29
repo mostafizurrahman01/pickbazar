@@ -9,11 +9,11 @@ function HeaderBody() {
 
     let settings = {
         dots: true,
-        infinite: false,
+        infinite: true,
         speed: 500,
         slidesToShow: 4,
         slidesToScroll: 1,
-        initialSlide: 0,
+        // initialSlide: 0,
         cssEase: "linear",
         responsive: [
             {
@@ -45,6 +45,7 @@ function HeaderBody() {
     return (
         <div>
             <h2> 3Rd Part </h2>
+
             <Slider {...settings}>
                 <div className="card-wrapper">
                     <div className="card">
