@@ -1,0 +1,27 @@
+/* body {
+    background: #c8c6c4;
+    background: #3498db;
+  } */
+  
+  .App {
+    font-family: sans-serif;
+    /* padding: 10px 30px; */
+  }
+  
+  /* .App > div {
+    background-color: #5c2e91;
+    background-color: #fff;
+    color: #fff;
+    color: #3498db;
+    text-align: center;
+  } */
+
+
+  .img-container2 img{
+      margin-top: -5px;
+    height:150px;
+  }
+
+  .headerBody sec{
+      margin-right: 10px;
+  }
