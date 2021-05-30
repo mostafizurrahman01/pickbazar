@@ -18,7 +18,7 @@ const Footer = () => {
                     </Col>
                     <Col md={2} className="py-3">
                     <ul className="list-unstyled">
-                            <li className="py-2"><a href='/help'>Get Help</a></li>
+                            <li className="py-2 link-remove"><a href='/help'>Get Help</a></li>
                             <li className="py-2"><a href='/faq'>Read FAQ</a></li>
                             <li className="py-2"><a href='/templates'>View All Templates</a></li>
                             <li className="py-2"><a href='/about-us'>About Us</a></li>
