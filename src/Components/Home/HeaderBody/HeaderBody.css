@@ -19,9 +19,11 @@
 
   .img-container2 img{
       margin-top: -5px;
-    height:150px;
+      height:150px;
+
   }
 
-  .headerBody sec{
-      margin-right: 10px;
+  .headerbody-container{
+    margin-right: 75px;
   }
+
