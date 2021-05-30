@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 import logo from '../../../images/logo.PNG';
 // import { UserContext } from '../../../App';
-// import './Navbar.css';
+import './Navbar.css';
 
 const Navbar = () => {
     // const [loggedInUser, setLoggedInUser] = useContext(UserContext);
@@ -14,7 +14,7 @@ const Navbar = () => {
 
     return (
         <nav className="navbar navbar-expand-lg navbar-light nav-color">
-            <img src={logo} alt=""  width="200px"/>
+            <img src={logo} className="ms-3" alt=""  width="200px"/>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>

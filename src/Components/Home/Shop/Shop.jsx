@@ -16,12 +16,17 @@ const Shop = () => {
     // }, []);
 
     return (
-            <div className="container row">
-                <h1 className="mb-3">All Product</h1>
+        <div style={{backgroundColor: 'ghostwhite'}}>
+            <div>
+                <h1 className="mb-5 mt-5 text-center">All Fetured Product</h1>
+            </div>
+            <div className="container row shop-container ms-5 mt-4">
                 {
                     allProducts.map(item => (<Item key={item.id} item={item}></Item>))
                 }
             </div>
+
+        </div>
     );
 };
 

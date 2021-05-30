@@ -1,0 +1,14 @@
+
+.p-caption{
+    color:cornflowerblue;
+}
+
+@media (min-width: 1050px) { 
+    .caption{
+        margin-top: -420px;
+        color:darkgray;
+    }
+    .p-caption{
+        color:cornflowerblue;
+    }
+}

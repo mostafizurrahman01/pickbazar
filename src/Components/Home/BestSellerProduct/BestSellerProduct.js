@@ -13,6 +13,7 @@ import "swiper/swiper.min.css";
 import "swiper/components/pagination/pagination.min.css";
 import "swiper/components/navigation/navigation.min.css";
 import SwiperCore, { Pagination, Navigation } from "swiper/core";
+import './BestSellerProduct.css';
 
 
 SwiperCore.use([Pagination, Navigation]);
@@ -29,7 +30,7 @@ const BestSellerProduct = () => {
 
   return (
     <div style={{}} className="p-sm-2">
-      <h2>BEST SELLER PRODUCTS</h2>
+      <h2 className="text-center mt-5 mb-5">BEST SELLER PRODUCTS</h2>
       <Swiper
         slidesPerView={1}
         spaceBetween={10}
@@ -54,12 +55,12 @@ const BestSellerProduct = () => {
           
         {allProducts.slice(5,9).map((item) => (
           <SwiperSlide className=" col-md-4 ">
-            <div class="">
+            <div className="container product-style">
               <Card style={{ width: "100%" }}>
                 <Card.Img className='p-3' variant="top" src={item.img} />
 
                 <Card.Body>
-                  <Card.Title>{item.title}...</Card.Title>
+                  <Card.Title>{item.title}</Card.Title>
                   <h3>
                     <b>Price: ${item.price}</b>
                   </h3>
